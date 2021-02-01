@@ -1,0 +1,2 @@
+rootProject.name='Hoppy'
+include ':app'

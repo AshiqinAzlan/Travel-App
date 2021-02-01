@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/layout_bg"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Name"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        />
+
+
+
+    <TextView
+        android:id="@+id/firstname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/lastname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="90dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="90dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone Number"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/black"
+        />
+
+
+    <TextView
+        android:id="@+id/id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Booking ID"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Booking Date"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="16sp"
+        android:layout_marginTop="180dp"
+        android:textColor="@color/black"
+        />
+
+
+    <TextView
+        android:id="@+id/booking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="160dp"
+        android:textSize="16sp"
+        android:layout_marginTop="180dp"
+        android:textColor="@color/black"
+        />
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,1226 @@
+[
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_foreground.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_home_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-mdpi\\ic_home_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_center.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_help_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_background.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_person_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-mdpi\\ic_person_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookinglisting.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_bookinglisting.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_bg.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_activistdetails.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_activistdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\font_lato.ttf.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\font\\lato.ttf"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookingdetailz.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\bookingdetailz.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_detailss.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_food_detailss.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellowiconbutton.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\yellowiconbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_travellerdetails.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_travellerdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paramount.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\paramount.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_person_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_person_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitebutton.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\whitebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_home_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_atv.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\atv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userprofile.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_userprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\font_helvatica.ttf.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\font\\helvatica.ttf"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button1.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_atmosphere.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\atmosphere.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person_background.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hoppy_main.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_hoppy_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_multi_bookings.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_multi_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_activitieslisting.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_activitieslisting.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cycling.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\cycling.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_person_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_listing.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_food_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookings_detail.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_bookings_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_home_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_home_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_funfair.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\funfair.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_genting.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\genting.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hoppylogo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\hoppylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skyway.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\skyway.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legoland.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\legoland.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pasta.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vietname.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\vietname.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_userprofilebckgrnd.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\userprofilebckgrnd.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_home_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_locationmaterial.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\locationmaterial.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_skydiving.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\skydiving.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_home_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-hdpi\\ic_home_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_penang.JPG.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\penang.JPG"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lockicon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\lockicon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_detailstes.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\detailstes.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hongkong.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\hongkong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_langkawi.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\langkawi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittextback.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\edittextback.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrow.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home1.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\home1.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_person_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-hdpi\\ic_person_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirmationpage.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_confirmationpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_diving.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\diving.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_editprofile.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_editprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_hotel.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\search_hotel.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pinkiconbutton.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\pinkiconbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jonker.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\jonker.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_home_round.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_home_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_usericon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\usericon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_foreground.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homestayinfo.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_homestayinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sabah.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\sabah.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\help_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_searchpackage.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_searchpackage.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_person_round.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_person_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_phone_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cameron.jpg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\cameron.jpg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_signup.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_guest_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\guest_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_show_hide.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\show_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_person_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_person_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_person.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\font_josefinsans.ttf.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\font\\josefinsans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_activitiesinfo.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_activitiesinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\card_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user_icon_2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\user_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_placestostay.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\placestostay.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_foodinfo.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\layout\\activity_foodinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dropdowndes.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\dropdowndes.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_foods.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\foods.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aquaria.jpeg.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\aquaria.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxxhdpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_calendar_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\calendar_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sleeping.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hoppy.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-ldpi\\hoppy.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\font_lady_finger_italic.otf.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\font\\lady_finger_italic.otf"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\font_lady_finger.otf.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\font\\lady_finger.otf"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-mdpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bar.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\search_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-hdpi\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueiconbutton.xml.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable\\blueiconbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_package2.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xxhdpi\\search_package2.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person_foreground.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_icon.png.flat",
+        "source": "C:\\Users\\END USER\\AndroidStudioProjects\\Hoppy\\app\\src\\main\\res\\drawable-xhdpi\\card_icon.png"
+    }
+]

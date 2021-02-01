@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bookinglisting">
+
+    <ImageButton
+        android:id="@+id/backbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/arrow"
+        android:background="@null"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="63dp"
+        />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="98dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="170dp"
+        android:src="@drawable/hoppylogo"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="120dp"
+        android:background="@color/grey" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="140dp"
+        android:textSize="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Hoppy Food Listing"/>
+
+
+    <GridView
+        android:id="@+id/activitylisting"
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:background="#f5f8fc"
+        android:layout_marginTop="180dp"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hoppy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".multiBookings" />
+        <activity android:name=".bookingsDetail" />
+        <activity android:name=".about" />
+        <activity android:name=".helpCenter" />
+        <activity android:name=".foodDetailss" />
+        <activity android:name=".foodinfo" />
+        <activity android:name=".foodListing" />
+        <activity android:name=".activistdetails" />
+        <activity android:name=".activitiesinfo" />
+        <activity android:name=".activitieslisting" />
+        <activity android:name=".confirmationpage" />
+        <activity android:name=".travellerdetails" />
+        <activity android:name=".homestayinfo" />
+        <activity android:name=".bookinglisting" />
+        <activity android:name=".searchpackage" />
+        <activity android:name=".editprofile" />
+        <activity android:name=".userprofile" />
+        <activity android:name=".home" />
+        <activity android:name=".login" />
+        <activity android:name=".createAccount" />
+        <activity android:name=".hoppyMain" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/layout_bg"
+        />
+    <ImageView
+        android:id="@+id/placeimage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:scaleType="fitXY"
+         />
+
+    <TextView
+        android:id="@+id/stayName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="25sp"
+        android:layout_marginTop="230dp"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/staylocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="20sp"
+        android:layout_marginTop="270dp"
+        android:textColor="@color/black"
+        />
+
+
+    <TextView
+        android:id="@+id/stayprice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="placeholder"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="40dp"
+        android:textSize="15sp"
+        android:layout_marginTop="305dp"
+        android:textColor="@color/black"
+        />
+
+
+
+</RelativeLayout>

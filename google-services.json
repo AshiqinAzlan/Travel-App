@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237113582022",
+    "firebase_url": "https://hoppy-f3f42.firebaseio.com",
+    "project_id": "hoppy-f3f42",
+    "storage_bucket": "hoppy-f3f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237113582022:android:eb5e8a3fc61db19ebd12c7",
+        "android_client_info": {
+          "package_name": "com.example.hoppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237113582022-mocacsg4lnq8snu5o7jum6hug7vsrmdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoppy",
+            "certificate_hash": "977baabaf380d64e5b3d424936dad5837f19261a"
+          }
+        },
+        {
+          "client_id": "237113582022-4a4sttlvr19khe0a559stpabcvr40ede.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6b5F9X3jb1V1_gxYfDJdySWkBIP9MW0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237113582022-4a4sttlvr19khe0a559stpabcvr40ede.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
